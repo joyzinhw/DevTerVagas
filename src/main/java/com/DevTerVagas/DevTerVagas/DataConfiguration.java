@@ -1,4 +1,4 @@
-package com.DevTerVagas;
+package com.DevTerVagas.DevTerVagas;
 
 import javax.sql.DataSource;
 
