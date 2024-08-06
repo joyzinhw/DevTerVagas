@@ -10,3 +10,8 @@ A construção deste sistema visa não apenas melhorar a eficiência do processo
 - [MySQL](https://dev.mysql.com/doc/7)
 
 ## Arquitetura
+
+<<<<<<< HEAD
+============
+
+  ![2d2f1484-f96c-4f39-9e2e-0174ffa771c7](https://github.com/user-attachments/assets/8a79110e-8af2-46b8-ab8a-f595770abed8)
