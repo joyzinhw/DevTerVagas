@@ -12,3 +12,4 @@ A construção deste sistema visa não apenas melhorar a eficiência do processo
 
 ## Arquitetura
 
+![arquetetura](https://github.com/user-attachments/assets/4f7a8adc-6567-4d52-b664-4c60e459335e)
