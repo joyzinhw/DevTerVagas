@@ -8,3 +8,7 @@ A construção deste sistema visa não apenas melhorar a eficiência do processo
  - [Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html)
  - [Java 17](https://www.oracle.com/br/java/technologies/downloads/#java17)
  - [MySQL](https://dev.mysql.com/doc/7)
+
+
+## Arquitetura
+
